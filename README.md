@@ -6,7 +6,7 @@ Please read the specification, then read,"Public - Computing I - Assignment 1 Co
 for an understanding of my solution to the given problem and the extra miles I completed for this assignment.
 
 
-_If you are a current first year TCD CS student reading this, please avoid copying any of this work.
+If you are a current first year TCD CS student reading this, please avoid copying any of this work.
 It is much more beneficial to try these assignments yourself, especially for the exams in June.
 
 -Conor
