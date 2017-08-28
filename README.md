@@ -18,7 +18,7 @@ Note: Psuedocode is completed in near perfect Java.
 
 ### To Current TCD CS First Year Students
 
-If you are a current first year TCD CS student reading this, please avoid copying any of this work.
+Please avoid copying any of this work, you are only cheating yourself by not completing the assignments on your own.
 
 It is much more beneficial to try these assignments yourself, especially for your exams in June.
 
